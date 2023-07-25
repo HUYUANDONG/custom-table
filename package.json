@@ -10,9 +10,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.15.13",
+    "v-jsoneditor": "^1.2.3",
     "vue": "^2.5.2",
+    "vue-draggable-resizable-gorkys": "^2.4.8",
     "vue-router": "^3.0.1",
-    "v-jsoneditor": "^1.2.3"
+    "vuedraggable": "^2.24.3"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

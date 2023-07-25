@@ -8,7 +8,7 @@ export default new Router({
     {
       path: '/',
       name: 'Demo',
-      component: ()=>import('@/components/InfiniteSplitTableDemo.vue')
+      component: ()=>import('@/components/Demo.vue')
     }
   ]
 })
